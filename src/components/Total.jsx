@@ -4,7 +4,9 @@ const Total = ({parts}) => {
     console.log(total)
     return (
         <div>
-            {total}
+            <b>
+                Total of {total} exercises
+            </b>
         </div>
     )
 }

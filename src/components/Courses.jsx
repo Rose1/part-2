@@ -2,6 +2,7 @@ import Header from "./Header"
 import Part from "./Part"
 import Total from "./Total"
 const Courses = ({ courses}) => {
+  
   return (
     <div>
       <ul>
